@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from "@/components/TheWelcome.vue";
+import MoodTracker from "@/components/MoodTracker.vue";
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <MoodTracker />
   </main>
 </template>
