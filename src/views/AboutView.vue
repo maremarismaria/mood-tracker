@@ -63,4 +63,8 @@ p {
   margin-bottom: 1em;
   line-height: 1.5em;
 }
+
+a {
+  color: #f4900c;
+}
 </style>
